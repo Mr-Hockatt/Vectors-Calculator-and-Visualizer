@@ -22,5 +22,8 @@ Terminal-based vector calculator and visualizer
 
 ## Requirements
 <ul>
-  <li></li>
+  <li><b></b></li>
+  <li><b></b></li>
+  <li><b></b></li>
+  <li><b></b></li>
 </ul>
