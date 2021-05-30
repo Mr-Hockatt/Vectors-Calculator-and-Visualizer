@@ -1,5 +1,5 @@
 # Vectors-Calculator-and-Visualizer
-Terminal-based vector calculator and visualizer.
+Terminal-based vector calculator and visualizer.</br>
 This project was created as part of my <b>Solid Mechanics class</b> on my 4th semester of Mechatronics Engineering.
 
 ![cross_product_2](https://user-images.githubusercontent.com/53312754/120088276-771d7e80-c0b4-11eb-853a-240172f95a9d.png)
